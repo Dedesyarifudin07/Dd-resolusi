@@ -1,0 +1,3 @@
+dede-resolusi
+-membuat blog 
+-menyelesaikan mern

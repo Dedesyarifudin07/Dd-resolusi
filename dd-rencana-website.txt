@@ -1,0 +1,4 @@
+rencana website dede
+-membuat blog sedderhana dengan react
+-membuat web portofolio
+-membuat social media dengan react

@@ -1,4 +1,4 @@
 dede-resolusi
 -membuat blog 
--menyelesaikan mern
+-belajar node js
 -belajar tailwind css
